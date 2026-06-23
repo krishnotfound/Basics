@@ -1,4 +1,4 @@
-module mux_1bit(
+module demux_1bit(
 input I,
 input sel,
 output y0,
